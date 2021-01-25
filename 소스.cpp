@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hellow world!æ»≥Á«œººø‰");
+	printf("Hellow world!");
 	return 0; 
 }
